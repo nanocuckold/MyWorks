@@ -127,7 +127,8 @@ img {
     padding: 2rem 0.5rem;
 }
 
-.code {
+.code 
+{
     color: #303841;
     transition: color 0.3s ease-out;
 }
@@ -140,7 +141,8 @@ img {
       font-size: 6rem;
   }
 
-.contact-section-header > p{
+.contact-section-header > p
+{
     font-style: italic;
     font-size: 4rem;
 }
